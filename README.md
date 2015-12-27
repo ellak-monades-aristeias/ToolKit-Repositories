@@ -19,4 +19,4 @@
 
 Τέλος, συμπληρωματικά με όλες τις παραπάνω διαστάσεις και προτάσεις (απόθεση  λογισμικού, περιεχομένου, δεδομένων, μελετών), συνίσταται η ύπαρξη μίας πολιτικής εφεδρικών αντιγράφων ανάλογα με τον φορέα.
 
-Ο οδηγός σε επεξεργάσιμη μορφή https://github.com/ellak-monades-aristeias/ToolKitProject/blob/master/ToolKit.md, σε ODT( http://is.gd/qePHmx ) & σε DOCX(  ).
+Ο οδηγός σε επεξεργάσιμη μορφή στο github( http://is.gd/qePHmx ), σε ODT( http://is.gd/qePHmx ) & σε DOCX(  ).
