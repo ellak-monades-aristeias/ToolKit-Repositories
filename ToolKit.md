@@ -649,19 +649,22 @@ Flickr ή οποία υποστηρίζει τις γνωστές αδειοδο
 Συναφείς πρωτοβουλίες απαντώνται ανά την Ευρώπη αλλά και την υφήλιο.
 Ενδεικτικά ο παρακάτω πίνακας παραθέτει μερικές:
 
-  ------------------ ------------------------------------------------------------------------------------------------ ----------------
-  **Χώρα**           **Πλατφόρμα**                                                                                    **Αποθετήριο**
-  Η.Π.Α.             [data.gov ](file:///C:\Users\user\Downloads\data.gov)                                            GitHub - CKAN
-  Ηνωμένο Βασίλειο   [data.gov.uk ](file:///C:\Users\user\Downloads\data.gov.uk)                                      CKAN
-  Ιταλία             [dati.gov.it](file:///C:\Users\user\Downloads\dati.gov.it)
-  Ισπανία            [dataportals.org/catalog/spain](file:///C:\Users\user\Downloads\dataportals.org\catalog\spain)   GitHub
-  Γαλλία             <https://www.data.gouv.fr/fr/>                                                                   GitHub
-  Σλοβακία           <http://data.gov.sk/>
-  Νορβηγία           <http://data.norge.no/nlod/en>
-  Σουηδία            <http://www.opengov.se/>
-  Πορτογαλία         [www.dados.gov.pt](http://www.dados.gov.pt)
-  Ινδία              <https://data.gov.in>
-  ------------------ ------------------------------------------------------------------------------------------------ ----------------
+------------------ -------------------------------------------------------------------------------------------------
+
+| **Χώρα**    |  **Πλατφόρμα** | **Web portal** |
+|------------ | -------------- | -------------- |
+|Η.Π.Α. | [CKAN](http://ckan.org/), [DKAN](https://www.drupal.org/project/dkan) |[data.gov](http://www.data.gov) |
+|Ηνωμένο Βασίλειο| [CKAN](http://ckan.org/), [DKAN](https://www.drupal.org/project/dkan)| [data.gov.uk](https://data.gov.uk/) |
+|Ιταλία|[CKAN](http://ckan.org/), [DKAN](https://www.drupal.org/project/dkan) | [dati.gov.it](https://dati.gov.it) |
+|Ισπανία| [Drupal](https://www.drupal.org)| [datos.gob.es](http://datos.gob.es/) |
+|Γαλλία | [CKAN](http://ckan.org/) | [data.gouv.fr](https://www.data.gouv.fr)|
+| Σλοβακία | [CKAN](http://ckan.org/) | [data.gov.sk](http://data.gov.sk/) |
+| Νορβηγία |[DKAN](https://www.drupal.org/project/dkan) | [data.norge.no](http://data.norge.no/) |
+| Σουηδία | [Django](https://www.djangoproject.com/) | [opengov.se](http://www.opengov.se/) |
+| Πορτογαλία | [Umbraco](http://umbraco.com/) | [dados.gov.pt](http://www.dados.gov.pt) |
+| Ινδία | [Drupal](https://www.drupal.org) | [data.gov.in](https://data.gov.in) |
+
+----------------- ------------------------------------------------------------------------------------------------
 
 4.3 Θεσμικό Πλαίσιο
 -----------------------------------------------------------------------------------------------------------------
@@ -674,8 +677,7 @@ Flickr ή οποία υποστηρίζει τις γνωστές αδειοδο
 
 Το θεσμικό πλαίσιο που διέπει τη συγκεκριμένη δράση είναι:
 
-1.  Ν.[
-    ](http://www.et.gr/idocs-nph/search/pdfViewerForm.html?args=5C7QrtC22wEc63YDhn5AeXdtvSoClrL8oeKAuTKOuiV5MXD0LzQTLWPU9yLzB8V68knBzLCmTXKaO6fpVZ6Lx3UnKl3nP8NxdnJ5r9cmWyJWelDvWS_18kAEhATUkJb0x1LIdQ163nV9K--td6SIubMfH2r_a2DXjO6MJnF-5f9_LW7pRMszX0fGIINVmMIh)[*4305/2014*](http://www.et.gr/idocs-nph/search/pdfViewerForm.html?args=5C7QrtC22wEc63YDhn5AeXdtvSoClrL8oeKAuTKOuiV5MXD0LzQTLWPU9yLzB8V68knBzLCmTXKaO6fpVZ6Lx3UnKl3nP8NxdnJ5r9cmWyJWelDvWS_18kAEhATUkJb0x1LIdQ163nV9K--td6SIubMfH2r_a2DXjO6MJnF-5f9_LW7pRMszX0fGIINVmMIh)
+1.  Ν. [*4305/2014*](http://www.et.gr/idocs-nph/search/pdfViewerForm.html?args=5C7QrtC22wEc63YDhn5AeXdtvSoClrL8oeKAuTKOuiV5MXD0LzQTLWPU9yLzB8V68knBzLCmTXKaO6fpVZ6Lx3UnKl3nP8NxdnJ5r9cmWyJWelDvWS_18kAEhATUkJb0x1LIdQ163nV9K--td6SIubMfH2r_a2DXjO6MJnF-5f9_LW7pRMszX0fGIINVmMIh)
     (ΦΕΚ 237/Α΄) «Ανοικτή διάθεση και περαιτέρω χρήση εγγράφων,
     πληροφοριών και δεδομένων του δημόσιου τομέα, τροποποίηση του ν.
     3448/2006 (Α΄ 57), προσαρμογή της εθνικής νομοθεσίας στις διατάξεις
