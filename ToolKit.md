@@ -377,9 +377,7 @@ GitHub επιτρέπουν την αδειοδότηση του κώδικα ε
 στο <https://opensource.org/licenses/category>), είτε βάσει
 συγκεκριμένης άδειας που ορίζει ο ιδιοκτήτης-παραγωγός του
 εναποτεθειμένου κώδικα (συνήθως μέσω ενός ευδιάκριτου αρχείου "LICENSE",
-"LICENSE.txt", "LICENSE.pdf" κλπ).
-
-O [OKFN](https://okfn.org/) διαθέτει επίσης έναν κατάλογο αδειών σε μορφή Rest API (json, jsonp μορφές) για ανοιχτό λογισγμικό, ανοιχτά δεδομένα και ανοιχτό περιεχόμενο εδώ: http://licenses.opendefinition.org.
+"LICENSE.txt", "LICENSE.pdf", κ.λπ.).
 
 Στο Παράρτημα Α.2 αναφέρονται ενδεικτικά κάποια ήδη άδειας για χρήση στο
 GitHub.
@@ -567,19 +565,19 @@ CC-BY-SA, ή GFDL (δες
 παρακάτω τύπους αδειοδότησης περιεχομένου (δες
 <https://help.yahoo.com/kb/SLN25525.html>):
 
-  **Τύπος Άδειας**                       **Πηγή οδηγιών**
-  -------------------------------------- ----------------------------------------------------
-  All Rights Reserved
-  Public Domain Work                     https://creativecommons.org/publicdomain/mark/1.0/
-  Public Domain Dedication (CC0)         https://creativecommons.org/publicdomain/zero/1.0/
-  Attribution                            https://creativecommons.org/licenses/by/2.0/
-  Attribution-ShareAlike                 https://creativecommons.org/licenses/by-sa/2.0/
-  Attribution-NoDerivs                   https://creativecommons.org/licenses/by-nd/2.0/
-  Attribution-NonCommercial              https://creativecommons.org/licenses/by-nc/2.0/
-  Attribution-NonCommercial-ShareAlike   https://creativecommons.org/licenses/by-nc-sa/2.0/
-  Attribution-NonCommercial-NoDerivs     https://creativecommons.org/licenses/by-nc-nd/2.0/
-  United States government work          http://www.usa.gov/copyright.shtml
-  No known copyright restrictions        https://www.flickr.com/commons/usage/
+|  **Τύπος Άδειας**                      | **Πηγή οδηγιών** |
+| -------------------------------------- | -----------------------------------------------|
+|  All Rights Reserved | - |
+|  Public Domain Work        |             https://creativecommons.org/publicdomain/mark/1.0/ |
+|  Public Domain Dedication (CC0) |        https://creativecommons.org/publicdomain/zero/1.0/ |
+|  Attribution                     |       https://creativecommons.org/licenses/by/2.0/ |
+|  Attribution-ShareAlike           |      https://creativecommons.org/licenses/by-sa/2.0/ |
+|  Attribution-NoDerivs              |     https://creativecommons.org/licenses/by-nd/2.0/ |
+|  Attribution-NonCommercial          |    https://creativecommons.org/licenses/by-nc/2.0/ |
+|  Attribution-NonCommercial-ShareAlike|   https://creativecommons.org/licenses/by-nc-sa/2.0/ |
+|  Attribution-NonCommercial-NoDerivs |    https://creativecommons.org/licenses/by-nc-nd/2.0/ |
+|  United States government work    |      http://www.usa.gov/copyright.shtml |
+|  No known copyright restrictions   |     https://www.flickr.com/commons/usage/ |
 
 Υπάρχει δε και η περίπτωση πλήρης κατοχύρωσης δικαιωμάτων κάτω από τον
 τύπο άδειας «All Rights Reserved», όπου ο δημιουργός θεωρείται ο κάτοχος
