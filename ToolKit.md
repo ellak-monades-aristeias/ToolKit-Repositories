@@ -254,19 +254,153 @@ Index*](http://index.okfn.org/) αξιολογεί τις κυβερνήσεις
 σχετικές εγκύκλιοι και διατάξεις, καθώς και σχέδια δράσης μπορούν να
 συνοψιστούν στον παρακάτω πίνακα.
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Νόμος Πλαίσιο για την Ηλεκτρονική Διακυβέρνηση                                                                                                                                                                                                                                                                                                                                                                                                                                            [*Ν.3979/2011*](http://www.et.gr/idocs-nph/search/pdfViewerForm.html?args=5C7QrtC22wFYAFdDx4L2G3dtvSoClrL8aRmGcrk2DyZ5MXD0LzQTLWPU9yLzB8V68knBzLCmTXKaO6fpVZ6Lx3UnKl3nP8NxdnJ5r9cmWyJWelDvWS_18kAEhATUkJb0x1LIdQ163nV9K--td6SIuWul0aw7wuQu_zIv4zGsWeDDAhtceLHtRKuKtY2AHivR)
-  Νόμος για τα Ανοιχτά Δεδομένα του δημόσιου τομέα                                                                                                                                                                                                                                                                                                                                                                                                                                          [*Ν.4305/2014*](https://mycontent.ellak.gr/wp-content/uploads/2014/11/N4305_2014.pdf)
-  Το σχέδιο δράσης της Ελλάδας για την ανοιχτή διακυβέρνηση                                                                                                                                                                                                                                                                                                                                                                                                                                 [*http://www.opengovpartnership.org/country/greece/action-plan*](http://www.opengovpartnership.org/country/greece/action-plan)
-  Το Πρόγραμμα Δι@ύγεια                                                                                                                                                                                                                                                                                                                                                                                                                                                                     [*Ν.3861/2010*](https://diavgeia.gov.gr/info)
-  Νόμος για την περαιτέρω χρήση πληροφοριών του δημόσιου τομέα και τη ρύθμιση θεμάτων αρμοδιότητας Υπουργείου Εσωτερικών, Δημόσιας Διοίκησης και Αποκέντρωσης                                                                                                                                                                                                                                                                                                                               [*N.3448/2006*](http://www.et.gr/idocs-nph/search/pdfViewerForm.html?args=5C7QrtC22wFGQ40gSLPFOXdtvSoClrL8KoqaERu8wDDtIl9LGdkF53UIxsx942CdyqxSQYNuqAGCF0IfB9HI6qSYtMQEkEHLwnFqmgJSA5WIsluV-nRwO1oKqSe4BlOTSpEWYhszF8P8UqWb_zFijM7pZ0uAVJnEIRDT8gfgjDrktnVRzo5d-fi1RvYPzP-4)
-  Αριθ. ΔΗΔ/Φ.40/407/8.1.2015 εγκύκλιος με θέμα «Εφαρμογή των διατάξεων του Κεφαλαίου Α’ του ν. 4305/2014 (ΦΕΚ 237/Α΄ ) σχετικά με την «ανοικτή διάθεση και περαιτέρω χρήση εγγράφων, πληροφοριών και δεδομένων του δημόσιου τομέα, την τροποποίηση των διατάξεων του πρώτου κεφαλαίου του ν. 3448/2006, προσαρμογή της εθνικής νομοθεσίας στις διατάξεις της οδηγίας 2013/37 του Ευρωπαϊκού Κοινοβουλίου και του Συμβουλίου και την περαιτέρω ενίσχυση της διαφάνειας στο δημόσιο τομέα»   [*https://diavgeia.gov.gr/decision/view/ΩΩΡΜΧ-ΜΒΛ*](https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A9%CE%A1%CE%9C%CE%A7-%CE%9C%CE%92%CE%9B)
-  Αριθ. ΔΗΔ. Φ./ 19710/16.6.2015 εγκύκλιο με θέμα «Ανοικτή διάθεση και περαιτέρω χρήση εγγράφων, πληροφοριών και δεδομένων του δημόσιου τομέα σύμφωνα με το κεφ. Α΄ του Ν. 4305/2014»                                                                                                                                                                                                                                                                                                       [*https://diavgeia.gov.gr/decision/view/7ΧΩΨ465ΦΘΕ-Β2Ι*](https://diavgeia.gov.gr/decision/view/7%CE%A7%CE%A9%CE%A8465%CE%A6%CE%98%CE%95-%CE%922%CE%99)
-  «Εθνική Υποδομή Γεωχωρικών Πληροφοριών - Εναρμόνιση με την Οδηγία 2007/2/ΕΚ του Ευρωπαϊκού Κοινοβουλίου και του Συμβουλίου της 14ης Μαρτίου 2007 και άλλες διατάξεις. Τροποποίηση του Ν. 1647/1986 «[*Οργανισμός Κτηματολογίου και Χαρτογραφήσεων Ελλάδας*](http://www.inspire.okxe.gr/) (ΟΚΧΕ) και άλλες διατάξεις» (Α΄141)                                                                                                                                                              [*Ν.3882/2010*](https://nomoi.info/%CE%A6%CE%95%CE%9A-%CE%91-166-2010-%CF%83%CE%B5%CE%BB-1.html)
-  Εθνικό Σύστημα Ηλεκτρονικών Δημοσίων Συμβάσεων και άλλες διατάξεις.                                                                                                                                                                                                                                                                                                                                                                                                                       [*Ν.4155/2013*](http://www.et.gr/idocs-nph/search/pdfViewerForm.html?args=5C7QrtC22wEaosRGzKxO6XdtvSoClrL8Z8EAZX8QMQ95MXD0LzQTLWPU9yLzB8V68knBzLCmTXKaO6fpVZ6Lx3UnKl3nP8NxdnJ5r9cmWyJWelDvWS_18kAEhATUkJb0x1LIdQ163nV9K--td6SIuaGafZsB51W3Q59ZLtQJ_fvNASePXHIXvslaTkL6oNvD)
-  Κανονιστική Πράξη - «Τεχνικές λεπτομέρειες και διαδικασίες λειτουργίας του Εθνικού Συστήματος Ηλεκτρονικών Δημοσίων Συμβάσεων (Ε.Σ.Η.ΔΗ.Σ.)»                                                                                                                                                                                                                                                                                                                                              [*https://www.diavgeia.gov.gr/decision/view/ΒΛΛΥΦ-6Φ1*](https://www.diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%9B%CE%A5%CE%A6-6%CE%A61)
-  Αποθετήριο Μελετών Δημοσίου Τομέα                                                                                                                                                                                                                                                                                                                                                                                                                                                         [*Ν.3966/2011*](http://resources.ekdd.gr/knowledge/files/3966_2011_nomos_apothetiriou_mtk.pdf)
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<table width="600" cellpadding="7" cellspacing="0">
+	<col width="451">
+	<col width="119">
+	<tr valign="top">
+		<td width="451" style="border: 1.00pt solid #000000; padding: 0.07in">
+			<p align="justify"><font color="#000000"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt">Νόμος
+			Πλαίσιο για την Ηλεκτρονική Διακυβέρνηση</font></font></font></p>
+		</td>
+		<td width="119" style="border: 1.00pt solid #000000; padding: 0.07in">
+			<p align="justify"><font color="#000000"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt"><a href="http://www.et.gr/idocs-nph/search/pdfViewerForm.html?args=5C7QrtC22wFYAFdDx4L2G3dtvSoClrL8aRmGcrk2DyZ5MXD0LzQTLWPU9yLzB8V68knBz" target="_top"><font color="#1155cc"><u>Ν.3979/2011</u></font></a></font></font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="451" style="border: 1.00pt solid #000000; padding: 0.07in">
+			<p align="justify"><font color="#000000"> <font face="Times New Roman, serif"><font size="3" style="font-size: 12pt">Νόμος
+			για τα Ανοιχτά Δεδομένα του δημόσιου
+			τομέα</font></font></font></p>
+		</td>
+		<td width="119" style="border: 1.00pt solid #000000; padding: 0.07in">
+			<p align="justify"><font color="#000000"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt"><a href="https://mycontent.ellak.gr/wp-content/uploads/2014/11/N4305_2014.pdf" target="_top"><font color="#1155cc"><u>Ν.4305/2014</u></font></a></font></font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="451" style="border: 1.00pt solid #000000; padding: 0.07in">
+			<p align="justify"><font color="#000000"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt">Το
+			σχέδιο δράσης της Ελλάδας για την
+			ανοιχτή διακυβέρνηση</font></font></font></p>
+		</td>
+		<td width="119" style="border: 1.00pt solid #000000; padding: 0.07in">
+			<p align="justify"><font color="#000000"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt"><a href="http://www.opengovpartnership.org/country/greece/action-plan" target="_top"><font color="#1155cc"><u>http://www.opengovpartnership.org/country/greece/action-plan</u></font></a>
+			</font></font></font>
+			</p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="451" style="border: 1.00pt solid #000000; padding: 0.07in">
+			<p align="justify"><font color="#000000"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt">Το
+			Πρόγραμμα Δι@ύγεια </font></font></font>
+			</p>
+		</td>
+		<td width="119" style="border: 1.00pt solid #000000; padding: 0.07in">
+			<p align="justify"><font color="#000000"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt"><a href="https://diavgeia.gov.gr/info" target="_top"><font color="#1155cc"><u>Ν.3861/2010</u></font></a></font></font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="451" style="border: 1.00pt solid #000000; padding: 0.07in">
+			<p align="justify"><font color="#000000"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt">Νόμος
+			για την περαιτέρω χρήση πληροφοριών
+			του δημόσιου τομέα και τη ρύθμιση
+			θεμάτων αρμοδιότητας Υπουργείου
+			Εσωτερικών, Δημόσιας Διοίκησης και
+			Αποκέντρωσης</font></font></font></p>
+		</td>
+		<td width="119" style="border: 1.00pt solid #000000; padding: 0.07in">
+			<p align="justify"><font color="#000000"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt"><a href="http://www.et.gr/idocs-nph/search/pdfViewerForm.html?args=5C7QrtC22wFGQ40gSLPFOXdtvSoClrL8KoqaERu8wDDtIl9LGdkF53UIxsx942CdyqxSQ" target="_top"><font color="#1155cc"><u>N.3448/2006</u></font></a></font></font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="451" style="border: 1.00pt solid #000000; padding: 0.07in">
+			<p align="justify"><font color="#000000"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt">Αριθ.
+			ΔΗΔ/Φ.40/407/8.1.2015 εγκύκλιος με θέμα
+			«Εφαρμογή των διατάξεων του Κεφαλαίου
+			Α’ του ν. 4305/2014 (ΦΕΚ 237/Α΄ ) σχετικά με
+			την «ανοικτή διάθεση και περαιτέρω
+			χρήση εγγράφων, πληροφοριών και
+			δεδομένων του δημόσιου τομέα, την
+			τροποποίηση των διατάξεων του πρώτου
+			κεφαλαίου του ν. 3448/2006, προσαρμογή της
+			εθνικής νομοθεσίας στις διατάξεις
+			της οδηγίας 2013/37 του Ευρωπαϊκού
+			Κοινοβουλίου και του Συμβουλίου και
+			την περαιτέρω ενίσχυση της διαφάνειας
+			στο δημόσιο τομέα»</font></font></font></p>
+		</td>
+		<td width="119" style="border: 1.00pt solid #000000; padding: 0.07in">
+			<p align="justify"><font color="#000000"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt"><a href="https://diavgeia.gov.gr/decision/view/ΩΩΡΜΧ-ΜΒΛ" target="_top"><font color="#1155cc"><u>https://diavgeia.gov.gr/decision/view/ΩΩΡΜΧ-ΜΒΛ</u></font></a>
+			</font></font></font>
+			</p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="451" style="border: 1.00pt solid #000000; padding: 0.07in">
+			<p align="justify"><font color="#000000"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt">Αριθ.
+			ΔΗΔ. Φ./ 19710/16.6.2015 εγκύκλιο με θέμα
+			«Ανοικτή διάθεση και περαιτέρω χρήση
+			εγγράφων, πληροφοριών και δεδομένων
+			του δημόσιου τομέα σύμφωνα με το κεφ.
+			Α΄ του Ν. 4305/2014»</font></font></font></p>
+		</td>
+		<td width="119" style="border: 1.00pt solid #000000; padding: 0.07in">
+			<p align="justify"><font color="#000000"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt"><a href="https://diavgeia.gov.gr/decision/view/7ΧΩΨ465ΦΘΕ-Β2Ι" target="_top"><font color="#1155cc"><u>https://diavgeia.gov.gr/decision/view/7ΧΩΨ465ΦΘΕ-Β2Ι</u></font></a>
+			</font></font></font>
+			</p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="451" style="border: 1.00pt solid #000000; padding: 0.07in">
+			<p align="justify"><font color="#000000"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt">«Εθνική
+			Υποδομή Γεωχωρικών Πληροφοριών -
+			Εναρμόνιση με την Οδηγία 2007/2/ΕΚ του
+			Ευρωπαϊκού Κοινοβουλίου και του
+			Συμβουλίου της 14ης Μαρτίου 2007 και
+			άλλες διατάξεις. Τροποποίηση του Ν.
+			1647/1986 «<a href="http://www.inspire.okxe.gr/" target="_top"><font color="#1155cc"><u>Οργανισμός
+			Κτηματολογίου και Χαρτογραφήσεων
+			Ελλάδας</u></font></a> (ΟΚΧΕ) και άλλες
+			διατάξεις» (Α΄141)</font></font></font></p>
+		</td>
+		<td width="119" style="border: 1.00pt solid #000000; padding: 0.07in">
+			<p align="justify"><font color="#000000"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt"><a href="https://nomoi.info/ΦΕΚ-Α-166-2010-σελ-1.html" target="_top"><font color="#1155cc"><u>Ν.3882/2010</u></font></a></font></font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="451" style="border: 1.00pt solid #000000; padding: 0.07in">
+			<p align="justify"><font color="#000000"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt">Εθνικό
+			Σύστημα Ηλεκτρονικών Δημοσίων Συμβάσεων
+			και άλλες διατάξεις.</font></font></font></p>
+		</td>
+		<td width="119" style="border: 1.00pt solid #000000; padding: 0.07in">
+			<p align="justify"><font color="#000000"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt"><a href="http://www.et.gr/idocs-nph/search/pdfViewerForm.html?args=5C7QrtC22wEaosRGzKxO6XdtvSoClrL8Z8EAZX8QMQ95MXD0LzQTLWPU9yLzB8V68knBz" target="_top"><font color="#1155cc"><u>Ν.4155/2013</u></font></a></font></font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="451" style="border: 1.00pt solid #000000; padding: 0.07in">
+			<p align="justify"><font color="#000000"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt">Κανονιστική
+			Πράξη - «Τεχνικές λεπτομέρειες και
+			διαδικασίες λειτουργίας του Εθνικού
+			Συστήματος Ηλεκτρονικών Δημοσίων
+			Συμβάσεων (Ε.Σ.Η.ΔΗ.Σ.)»</font></font></font></p>
+		</td>
+		<td width="119" style="border: 1.00pt solid #000000; padding: 0.07in">
+			<p align="justify"><font color="#000000"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt"><a href="https://www.diavgeia.gov.gr/decision/view/ΒΛΛΥΦ-6Φ1" target="_top"><font color="#1155cc"><u>https://www.diavgeia.gov.gr/decision/view/ΒΛΛΥΦ-6Φ1</u></font></a>
+			</font></font></font>
+			</p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="451" style="border: 1.00pt solid #000000; padding: 0.07in">
+			<p align="justify"><font color="#000000"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt">Αποθετήριο
+			Μελετών Δημοσίου Τομέα</font></font></font></p>
+		</td>
+		<td width="119" style="border: 1.00pt solid #000000; padding: 0.07in">
+			<p align="justify"><font color="#000000"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt"><a href="http://resources.ekdd.gr/knowledge/files/3966_2011_nomos_apothetiriou_mtk.pdf" target="_top"><font color="#1155cc"><u>Ν.3966/2011</u></font></a></font></font></font></p>
+		</td>
+	</tr>
+</table>
+
 
 2. Οδηγός Διαχείρισης Λογισμικού
 ==============================================================================================================================
@@ -365,7 +499,134 @@ September 10-12, 2014.
   Επιστημονικά και ερευνητικά ιδρύματα (π.χ. πανεπιστήμια, ινστιτούτα)
   Υπηρεσίες και αρχές υγείας
   Αρχές άμυνας και εθνικής ασφάλειας
-  -------------------------------------------------------------------------------- ------------------------------------------------------------
+  --------------------------------------------------------------------------------
+  <table width="602" cellpadding="7" cellspacing="0">
+	<col width="286">
+	<col width="286">
+	<tr>
+		<td colspan="2" width="586" height="13" valign="top" style="border: 1.00pt solid #000000; padding: 0.07in">
+			<p align="justify"><font color="#000000"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt">Πίνακας
+			1. Αποθετήρια σε GitHub (απόλυτος αριθμός)</font></font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="286" style="border: 1.00pt solid #000000; padding: 0.07in">
+			<p align="justify"><font color="#000000"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt">Συνολικά
+			αποθετήρια της γενικής κυβέρνησης </font></font></font>
+			</p>
+		</td>
+		<td width="286" style="border: 1.00pt solid #000000; padding: 0.07in">
+			<p align="justify"><font color="#000000"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt">7003
+			</font></font></font>
+			</p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td rowspan="4" width="286" height="13" style="border: 1.00pt solid #000000; padding: 0.07in">
+			<p align="justify"><font color="#000000"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt">Τύποι
+			αποθετηρίων ομόσπονδων πολιτειών</font></font></font></p>
+		</td>
+		<td width="286" style="border: 1.00pt solid #000000; padding: 0.07in">
+			<p align="justify"><font color="#000000"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt">1437
+			αποθετήρια κώδικα (87.2%)</font></font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="286" style="border: 1.00pt solid #000000; padding: 0.07in">
+			<p align="justify"><font color="#000000"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt">67
+			αποθετήρια δεδομένων (4.07%)</font></font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="286" style="border: 1.00pt solid #000000; padding: 0.07in">
+			<p align="justify"><font color="#000000"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt">44
+			αποθετήρια οδηγιών λογισμικού/δεδομένων
+			(2.67%)</font></font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="286" style="border: 1.00pt solid #000000; padding: 0.07in">
+			<p align="justify"><font color="#000000"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt">3
+			αποθετήρια τεκμηρίωσης αδειών/policy
+			issues (0.18%) </font></font></font>
+			</p>
+		</td>
+	</tr>
+</table>
+<p style="margin-bottom: 0in; line-height: 100%"><br>
+</p>
+<p style="margin-bottom: 0in; line-height: 100%"><br>
+</p>
+<table width="602" cellpadding="7" cellspacing="0">
+	<col width="286">
+	<col width="286">
+	<tr>
+		<td colspan="2" width="586" height="13" valign="top" style="border: 1.00pt solid #000000; padding: 0.07in">
+			<p align="justify"><font color="#000000"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt">Πίνακας
+			2. Τύπος κώδικα στο GitHub ανάλογα με τον
+			τύπο της εποπτευόμενης αρχής</font></font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="286" style="border: 1.00pt solid #000000; padding: 0.07in">
+			<p align="justify"><font color="#000000"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt">Ρυθμιστικές
+			αρχές και υπουργεία</font></font></font></p>
+		</td>
+		<td width="286" style="border: 1.00pt solid #000000; padding: 0.07in">
+			<p align="justify" style="margin-bottom: 0in"><font color="#000000"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt">-
+			Κώδικας λογισμικού</font></font></font></p>
+			<p align="justify"><font color="#000000"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt">-
+			Ανοικτά δεδομένα</font></font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="286" style="border: 1.00pt solid #000000; padding: 0.07in">
+			<p align="justify"><font color="#000000"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt">Επιστημονικά
+			και ερευνητικά ιδρύματα (π.χ. πανεπιστήμια,
+			ινστιτούτα)</font></font></font></p>
+		</td>
+		<td width="286" style="border: 1.00pt solid #000000; padding: 0.07in">
+			<p align="justify" style="margin-bottom: 0in"><font color="#000000"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt">-
+			Ερευνητικά δεδομένα</font></font></font></p>
+			<p align="justify" style="margin-bottom: 0in"><font color="#000000"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt">-
+			Αλγόριθμοι για επιστημονικές
+			δημοσιεύσεις</font></font></font></p>
+			<p align="justify"><font color="#000000"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt">-
+			Τεχνολογικές προτάσεις</font></font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="286" style="border: 1.00pt solid #000000; padding: 0.07in">
+			<p align="justify"><font color="#000000"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt">Υπηρεσίες
+			και αρχές υγείας</font></font></font></p>
+		</td>
+		<td width="286" style="border: 1.00pt solid #000000; padding: 0.07in">
+			<p align="justify" style="margin-bottom: 0in"><font color="#000000"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt">Στατιστικά
+			στο χώρο της υγείας</font></font></font></p>
+			<p align="justify" style="margin-bottom: 0in"><font color="#000000"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt">Ανοικτά
+			δεδομένα</font></font></font></p>
+			<p align="justify"><font color="#000000"> <font face="Times New Roman, serif"><font size="3" style="font-size: 12pt">Αλγόριθμοι
+			για επιστημονικές δημοσιεύσεις</font></font></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="286" style="border: 1.00pt solid #000000; padding: 0.07in">
+			<p align="justify"><font color="#000000"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt">Αρχές
+			άμυνας και εθνικής ασφάλειας</font></font></font></p>
+		</td>
+		<td width="286" style="border: 1.00pt solid #000000; padding: 0.07in">
+			<p align="justify" style="margin-bottom: 0in"><font color="#000000"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt">Γεωχωρική
+			πληροφορία</font></font></font></p>
+			<p align="justify" style="margin-bottom: 0in"><font color="#000000"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt">Κώδικας
+			λογισμικού</font></font></font></p>
+			<p align="justify"><font color="#000000"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt">Ανοικτές
+			εφαρμογές διάχυτου υπολογισμού (π.χ.
+			mobile apps)</font></font></font></p>
+		</td>
+	</tr>
+</table>
+  
+  ------------------------------------------------------------
 
 2.3 Θεσμικό Πλαίσιο
 -----------------------------------------------------------------------------------------------------------------
